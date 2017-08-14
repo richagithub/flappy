@@ -1,2 +1,2 @@
 # flappy
-flappy bird game
+flappy bird game Link : [flappy bird game ](http://richagithub.github.io/flappy/)
